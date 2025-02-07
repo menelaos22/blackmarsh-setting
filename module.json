@@ -1,0 +1,27 @@
+{
+  "id": "blackmarsh-setting",
+  "title": "Blackmarsh Setting",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "A Setting Supplement \nCompatible with the Delving Deeper\n\nRules and all Editions based on \nThe original 1974 roleplaying game",
+  "authors": [
+    {
+      "name": "Kamil Beulich"
+    }
+  ],
+  "packs": [
+    {
+      "name": "Blackmarsh",
+      "label": "Blackmarsh",
+      "path": "packs/Blackmarsh",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
