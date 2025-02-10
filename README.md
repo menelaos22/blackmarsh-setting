@@ -2,5 +2,6 @@ This is system agnostic Adventure Module conversion of Blackmarsh setting https:
 Module contains:
 - Orginal black & white map.
 - My color version using Wonderdraft.
-- Journal with linked Journal Notes to every location mention in setting.\b
+- Journal with linked Journal Notes to every location mention in setting.  
+  
 You only need to install module and import adventure from compedium.
