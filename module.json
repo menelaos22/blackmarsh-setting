@@ -1,6 +1,8 @@
 {
   "id": "blackmarsh-setting",
   "title": "Blackmarsh Setting",
+  "manifest": "https://r2.foundryvtt.com/packages-public/blackmarsh-setting/module.json",
+  "protected": true
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
@@ -24,10 +26,4 @@
       }
     }
   ]
-  "protected": false,
-  "license": "LICENSE",
-  "readme": "README.md",
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#"
 }
