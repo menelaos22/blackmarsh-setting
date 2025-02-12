@@ -24,4 +24,10 @@
       }
     }
   ]
+  "protected": false,
+  "license": "LICENSE",
+  "readme": "README.md",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
 }
