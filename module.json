@@ -1,7 +1,9 @@
 {
   "id": "blackmarsh-setting",
   "title": "Blackmarsh Setting",
+  "url": "https://github.com/menelaos22/blackmarsh-setting",
   "manifest": "https://r2.foundryvtt.com/packages-public/blackmarsh-setting/module.json",
+  "download": "https://github.com/menelaos22/blackmarsh-setting/blob/main/blackmarsh-setting.zip",
   "protected": true
   "version": "1.0.0",
   "compatibility": {
